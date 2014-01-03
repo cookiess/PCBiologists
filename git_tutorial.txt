@@ -1,0 +1,5 @@
+new git repo
+
+https://help.github.com/articles/create-a-repo
+
+https://help.github.com/articles/set-up-git

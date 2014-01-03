@@ -1,0 +1,26 @@
+Alanine	GCA, GCC, GCG, GCT
+Asparagine or Aspartic acid	AAC, AAT, GAC, GAT
+Cysteine	TGC, TGT
+Aspartic acid	GAC, GAT
+Glutamic acid	GAA, GAG
+Phenylalanine	TTC, TTT
+Glycine	GGA, GGC, GGG, GGT
+Histidine	CAC, CAT
+Isoleucine	ATA, ATC, ATT
+Lysine	AAA, AAG
+Leucine	CTA, CTC, CTG, CTT, TTA, TTG
+Methionine	ATG
+Asparagine	AAC, AAT
+Proline	CCA, CCC, CCG, CCT
+Glutamine	CAA, CAG
+Arginine	AGA, AGG, CGA, CGC, CGG, CGT
+Serine	AGC, AGT, TCA, TCC, TCG, TCT
+Threonine	ACA, ACC, ACG, ACT
+Valine	GTA, GTC, GTG, GTT
+Tryptophan	TGG
+Tyrosine	TAC, TAT
+Glutamine or Glutamic acid	CAA, CAG, GAA, GAG
+stop codon	TAA, TAG, TGA
+
+
+ 	 	 	 
