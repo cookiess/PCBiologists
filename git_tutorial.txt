@@ -3,3 +3,19 @@ new git repo
 https://help.github.com/articles/create-a-repo
 
 https://help.github.com/articles/set-up-git
+
+https://help.github.com/articles/generating-ssh-keys
+
+git commit -a -m "repair memory leak in query" 
+git commit  includes/init.php -m "Lindgren Funnel Trap" 
+git status
+git checkout master
+git push origin
+git pull
+
+
+git remote -v
+git remote set-url origin url...
+
+git update-index --no-assume-unchanged bug1.jpg
+.gitignore #important when we start adding passowrds!

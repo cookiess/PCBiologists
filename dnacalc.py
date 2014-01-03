@@ -2,26 +2,36 @@
 
 #good coding habits - svn, git or dropbox
 
-DNA_sequence = 'ATGTCTCATTCAFAGCA'
+DNA_sequence = 'ATG'
 #DNA_sequence = raw_input("Enter a DNA sequence:") #script now asks a question from user for input
 DNA_sequence = DNA_sequence.upper().replace(" ","") #case sensitive #removes white space
 
-
-#-----------------------
+#modify to test for bad characters
+#-----------------------------
 for x in DNA_sequence:
-		if x != ('A' and 'T' and 'C' and 'G'):
+		if x != ('A' and 'T' and 'C' and 'G'): #and/or
 			y = 'TRUE'
+		else:
+			y = 'FALSE'
 			#add here to show same repeat
 			
 if y == 'TRUE':
 	print "your sequence %s contains bad characters" % DNA_sequence
-#-----------------------
+else:
+	print "sequence %s looks correct" % DNA_sequence
+#----------------------------
 
 
-#what does this mean %
+#what does this mean % - kind of a insert sequence
 #what does : mean (creates a slice)
+
+#strong typing in python
+# %d = interger digit
+# %s = string
+# %f = float
+#print '7' + str(3*2)
+#print float(7) #same as 7.0
 	
-########write a script that gives you the reverse sequence
 
 print 'Sequence:', DNA_sequence
 sequence_length =  float(len(DNA_sequence))
@@ -51,8 +61,11 @@ else:  ##fix this error, why wont it run?
 	MeltTemp = (4 * TotalStrong) + (2 * TotalWeak)
 	print "Melting Temp : %.if C" % (MeltTemp)
 		
-#-----------------------
-	pair = []
+#--------------------------
+#A with T: the purine adenine (A) always pairs with the pyrimidine thymine (T)
+#C with G: the pyrimidine cytosine (C) always pairs with the purine guanine (G)
+
+pair = []
 for x in DNA_sequence:
 	if x == 'A':
 		pair.extend('T')
@@ -63,19 +76,7 @@ for x in DNA_sequence:
 	elif x == 'C':
 		pair.extend('G')
 
-print "The complementary sequence of %s is %s" % (DNA_sequence, pair)	
-#-----------------------		
-	#A with T: the purine adenine (A) always pairs with the pyrimidine thymine (T)
-	#C with G: the pyrimidine cytosine (C) always pairs with the purine guanine (G)
-# %d = interger digit
-# %s = string
-# %f = float
+value_list = ''.join(pair)
+print "The complementary sequence of %s is %s" % (DNA_sequence, value_list)	
+#--------------------------
 
-
-#single and double quotes; quotes type it as a string
-#functions lowecase; capitilize variables and use _. TextMate has no trouble figuing out variables
-#which version of python? python -V (if 3.0)
-#functions http://docs.python.org/2.7/library/functions.html
-
-#print '7' + str(3*2)
-#print float(7) #same as 7.0
