@@ -1,0 +1,13 @@
+january 7
+
+1. In the program the book has you working on, write a check to see that all characters being entered are A,G,C,T. dnacalc.py
+2. Write a new script that returns the contig of a sequence. (dnacalc.py)
+3. Write a new script that creates a amino acid dictionary. Similar to what the book has outlined, check sequences for occurrences of amino acids, but use the dictionary as your reference. (amino_acids.py)
+4. Bring one example of a text thing you do all the time. We will review these together to develop the next series of exercises. Basically after one more week you will have all the skills you need for any basic text manipulation, reading from a file, and creating custom functions. Looking at the biopython cookbook might give you some ideas.
+http://biopython.org/wiki/Category:Cookbook
+5. git install and workflow - variables and organization - functions and import
+6. tough areas - lists, indexing lists
+lists:
+http://www.diveintopython.net/native_data_types/lists.html
+http://carlgroner.me/Python/2011/11/09/An-Introduction-to-List-Comprehensions-in-Python.html
+

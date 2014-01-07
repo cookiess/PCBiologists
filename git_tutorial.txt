@@ -6,12 +6,15 @@ https://help.github.com/articles/set-up-git
 
 https://help.github.com/articles/generating-ssh-keys
 
-git commit -a -m "repair memory leak in query" 
+git commit -a -m "verbose notes about commit"
+git status
 git commit  includes/init.php -m "Lindgren Funnel Trap" 
 git status
 git checkout master
+
+git commit -a -m "verbose notes about commit"
 git push origin
-git pull
+.gitignore
 
 
 git remote -v

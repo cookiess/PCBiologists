@@ -1,5 +1,7 @@
+#! /usr/bin/env python
+
 Alanine	GCA, GCC, GCG, GCT
-Asparagine or Aspartic acid	AAC, AAT, GAC, GAT
+Asparagine	AAC, AAT, GAC, GAT
 Cysteine	TGC, TGT
 Aspartic acid	GAC, GAT
 Glutamic acid	GAA, GAG
@@ -22,5 +24,4 @@ Tyrosine	TAC, TAT
 Glutamine or Glutamic acid	CAA, CAG, GAA, GAG
 stop codon	TAA, TAG, TGA
 
-
- 	 	 	 
+#list of lists?
