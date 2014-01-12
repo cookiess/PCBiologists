@@ -25,6 +25,9 @@
 # stop codon	TAA, TAG, TGA
 
 #list of lists?
+#look for start codon
+#frame shifting
+#reading from a file
 
 dct = {"TTT":"Phe","TTC":"Phe","TTA":"Leu","TTG":"Leu","TCT":"Ser","TCC":"Ser", 
 "TCA":"Ser","TCG":"Ser", "TAT":"Tyr","TAC":"Tyr","TAA":"Stp","TAG":"Stp", 

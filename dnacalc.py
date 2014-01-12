@@ -81,10 +81,10 @@ else:  ##fix this error, why wont it run?
 #A with T: the purine adenine (A) always pairs with the pyrimidine thymine (T)
 #C with G: the pyrimidine cytosine (C) always pairs with the purine guanine (G)
 # working with lists: http://effbot.org/zone/python-list.htm
-reverse_sequence = ''.join(list(reversed(DNA_sequence))) # an iterable reversed()
+# an iterable reversed()
 
 pair = []
-for x in reverse_sequence:
+for x in DNA_sequence:
 	if x == 'A':
 		pair.extend('T')
 	elif x == 'T':
@@ -94,14 +94,16 @@ for x in reverse_sequence:
 	elif x == 'C':
 		pair.extend('G')
 
-reverse_complement = ''.join(pair)
-complement = ''.join((list(reversed(reverse_complement))))
+reverse_sequence = ''.join(list(reversed(DNA_sequence)))
+complement = ''.join(pair)
+reverse_complement = ''.join((list(reversed(pair))))
 print "The reverse of %s is %s" % (DNA_sequence, reverse_sequence)	
 print "The complement of %s is %s" % (DNA_sequence,complement)
 print "The reverse complement of %s is %s" % (DNA_sequence, reverse_complement)	
 #--------------------------
 
-#dictionary, just call them arrays and key <- value
+reverse = reverse[::-1]
+baseconversion = {A:T, T:A}
 
 
 

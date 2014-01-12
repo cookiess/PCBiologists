@@ -1,4 +1,4 @@
-january 7
+Tuesday january 7
 
 1. In the program the book has you working on, write a check to see that all characters being entered are A,G,C,T. dnacalc.py
 2. Write a new script that returns the contig of a sequence. (dnacalc.py)
@@ -10,4 +10,16 @@ http://biopython.org/wiki/Category:Cookbook
 lists:
 http://www.diveintopython.net/native_data_types/lists.html
 http://carlgroner.me/Python/2011/11/09/An-Introduction-to-List-Comprehensions-in-Python.html
+
+Thursdays - work together to solve issues
+
+Tuesday January 14
+
+-Read Chapter 10 in book, "Reading and Writing Files"
+-Amino acid translator script with:
+---Identify where stop codon is
+---Translate in all frameshifts and complementary frameshifts
+---If you're feeling ambitious, make it start at a start codon?
+---Have the basecheck be called as a function at the beginning
+---Have it read from an input file (e.g. FASTA) 
 
