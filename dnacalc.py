@@ -102,8 +102,8 @@ print "The complement of %s is %s" % (DNA_sequence,complement)
 print "The reverse complement of %s is %s" % (DNA_sequence, reverse_complement)	
 #--------------------------
 
-reverse = reverse[::-1]
-baseconversion = {A:T, T:A}
+#reverse = reverse[::-1]
+#baseconversion = {A:T, T:A}
 
 
 

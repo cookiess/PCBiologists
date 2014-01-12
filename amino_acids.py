@@ -39,20 +39,33 @@ dct = {"TTT":"Phe","TTC":"Phe","TTA":"Leu","TTG":"Leu","TCT":"Ser","TCC":"Ser",
 "AAA":"Lys","AAG":"Lys","AGT":"Ser","AGC":"Ser","AGA":"Arg","AGG":"Arg", 
 "GTT":"Val","GTC":"Val","GTA":"Val","GTG":"Val","GCT":"Ala","GCC":"Ala", 
 "GCA":"Ala","GCG":"Ala", "GAT":"Asp","GAC":"Asp","GAA":"E|Glu", 
-"GAG":"Glu","GGT":"Gly","GGC":"Gly","GGA":"Gly","GGG":"Gly"}
+"GAG":"Glu","GGT":"Gly","GGC":"Gly","GGA":"Gly","GGG":"Gly", "RGA":"unknown"}
 
+#iterates through a text file and takes first element
 
-s = "TTTCAATACTAGCATGACCAAAGTGGGAACCCCCTTACGTAGCATGACCCATATATATATATATA"
-# for y in range(1):
-# 	bases = [s[x:x+3] for x in range(y, len(s) - 2, 3)]
-# print bases
+#opens file
+filename = "primers.txt"
+file = open(filename, 'r')
 
-bases = [s[x:x+3] for x in range(0,len(s) - 2, 3)]
-print bases
-print len(s) - 2, 3
+#strips new line and splits on tab
+for Line in file:
+	Line = Line.strip('\n')
+	element = Line.split('\t')
+	
+#looks at first element in file row
+	a = element[0]
+	
+#modifies list to be a range starting with first element and containing every 3
+	bases = [a[x:x+3] for x in range(0,len(a), 3)]
+	print bases
 
-aminos = []
-for b in bases:
-	aminos.extend(dct[b]+"-")
-all_aminos =  ''.join(aminos)
-print all_aminos[:-1]
+#converts to amino acids ====TODO put this in a function	
+	aminos = []
+	for b in bases:
+		if len(b) == 3:
+			aminos.extend(dct[b]+"-")
+	all_aminos =  ''.join(aminos)
+	print all_aminos[:-1]
+	
+#closes the file opened at the beginning
+file.close()

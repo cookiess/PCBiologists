@@ -1,4 +1,9 @@
 new git repo
+1. add ssh key to github
+2. git init in main folder
+3. git clone repo (adds repo folder to your main folder)
+4. check with a push origin
+
 
 https://help.github.com/articles/create-a-repo
 
