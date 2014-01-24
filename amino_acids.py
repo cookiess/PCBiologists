@@ -23,11 +23,9 @@
 # Tyrosine	TAC, TAT
 # Glutamine or Glutamic acid	CAA, CAG, GAA, GAG
 # stop codon	TAA, TAG, TGA
-
-#list of lists?
+# start codons	AUG, GUG, UUG
 #look for start codon
 #frame shifting
-#reading from a file
 
 dct = {"TTT":"Phe","TTC":"Phe","TTA":"Leu","TTG":"Leu","TCT":"Ser","TCC":"Ser", 
 "TCA":"Ser","TCG":"Ser", "TAT":"Tyr","TAC":"Tyr","TAA":"Stp","TAG":"Stp", 
@@ -39,33 +37,58 @@ dct = {"TTT":"Phe","TTC":"Phe","TTA":"Leu","TTG":"Leu","TCT":"Ser","TCC":"Ser",
 "AAA":"Lys","AAG":"Lys","AGT":"Ser","AGC":"Ser","AGA":"Arg","AGG":"Arg", 
 "GTT":"Val","GTC":"Val","GTA":"Val","GTG":"Val","GCT":"Ala","GCC":"Ala", 
 "GCA":"Ala","GCG":"Ala", "GAT":"Asp","GAC":"Asp","GAA":"E|Glu", 
-"GAG":"Glu","GGT":"Gly","GGC":"Gly","GGA":"Gly","GGG":"Gly", "RGA":"unknown"}
+"GAG":"Glu","GGT":"Gly","GGC":"Gly","GGA":"Gly","GGG":"Gly"}
 
-#iterates through a text file and takes first element
 
-#opens file
+#check that bases are correct
+def check_bases(DNA_sequence):
+	y = True #is setting the variable
+	bases = ['A','T','C','G','U']
+	for x in DNA_sequence:
+		for z in bases:
+			if x not in bases: #and/or
+				y = False
+				break
+	return y
+#end of function 
+
+#pass a range value to the function and the base, return amino acid and print the base
+def return_aminos(bases,range_value): #pass a value to a function
+	bases = [a[x:x+3] for x in range(range_value,len(a), 3)]
+	print bases
+	aminos = []
+	for b in bases:
+		if len(b) == 3:
+			aminos.extend(dct[b]+"-")
+			if dct[b] == 'Stp':
+				print "stop codons identified in sequence"
+			all_aminos =  ''.join(aminos)
+	return all_aminos[:-1]
+#end of function
+
+#opens file; make sure all that you want to print is below this line, functions above
 filename = "primers.txt"
 file = open(filename, 'r')
 
+#creates an outfile <== TODO modify to print to file
+outfilename = filename + "_modified.txt"
+outfile = open(outfilename, 'w') ##outfile
+
 #strips new line and splits on tab
+#TODO import from fasta file, have fasta to work with?
 for Line in file:
 	Line = Line.strip('\n')
 	element = Line.split('\t')
 	
 #looks at first element in file row
 	a = element[0]
-	
-#modifies list to be a range starting with first element and containing every 3
-	bases = [a[x:x+3] for x in range(0,len(a), 3)]
-	print bases
-
-#converts to amino acids ====TODO put this in a function	
-	aminos = []
-	for b in bases:
-		if len(b) == 3:
-			aminos.extend(dct[b]+"-")
-	all_aminos =  ''.join(aminos)
-	print all_aminos[:-1]
-	
-#closes the file opened at the beginning
+	a = a.upper().replace(" ","")
+	if check_bases(a) == True:
+		for r in range(3):
+			print return_aminos(a,r)
+	else:
+		print "error in sequence %s" % a
+		
+#closes the files opened at the beginning
 file.close()
+outfile.close()

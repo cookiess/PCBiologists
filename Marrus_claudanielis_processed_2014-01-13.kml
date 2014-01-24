@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marrus - %s</name>
+			<description>%s</description>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>%f,%f,-%s</coordinates>
+			</Point>
+		</Placemark>

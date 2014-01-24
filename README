@@ -23,3 +23,10 @@ Tuesday January 14
 ---Have the basecheck be called as a function at the beginning
 ---Have it read from an input file (e.g. FASTA) 
 
+Thursday January 23
+--more about functions
+--create and import own function module
+--write fasta file import
+--discuss workflow for pipleline
+--NumPy
+
