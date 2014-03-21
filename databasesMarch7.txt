@@ -1,0 +1,37 @@
+databases:
+tables linking by primary key
+forget the caps (table names can be selective)
+phpmyadmin to help write
+---writing mysql functions #in general mysql is faster
+keep track of commonly run commands
+
+importing:
+trim all values
+load data new lines
+duplicate tables
+SHOW WARNINGS\G
+duplicate table to import data (if possible)
+always backup before doing anything
+
+character encodings: whats the difference? The way they sort and find.
+MyISAM vs InnoDB (default mysql) what is the difference?
+
+scripting:
+test in command line before adding to code
+repeating queries as scripts ; mem_counts
+
+c.executemany(
+      """INSERT INTO breakfast (name, spam, eggs, sausage, price)
+      VALUES (%s, %s, %s, %s, %s)""",
+      [
+      ("Spam and Sausage Lover's Plate", 5, 1, 8, 7.95 ),
+      ("Not So Much Spam Plate", 3, 2, 0, 3.95 ),
+      ("Don't Wany ANY SPAM! Plate", 0, 4, 3, 5.95 )
+      ] )
+
+fetchone, fetchall difference
+
+other mysql functions:
+count, group by, replace, if statements, case statements, trim, truncate
+
+

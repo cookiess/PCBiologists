@@ -1,0 +1,2200 @@
+FamilyName	Subfamily	Tribe	Genus	Species	HostFamily	HostGenus	HostSpecies	HostCommonName
+Miridae	Orthotylinae	Orthotylini	Slaterocoris	pallidicornis	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	garryana	Oregon white oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus		oak
+Miridae	Orthotylinae	Orthotylini	Malacocoris	chlorizans	Fagaceae	Quercus	robur	English oak
+Miridae	Phylinae	Pilophorini	Pilophorus	perplexus	Fagaceae	Quercus	garryana	Oregon white oak
+Miridae	Orthotylinae	Orthotylini	Malacocoris	chlorizans	Fagaceae	Quercus	garryana	Oregon white oak
+Miridae	Phylinae	Pilophorini	Pilophorus	perplexus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Pilophorini	Pilophorus	perplexus	Fagaceae	Quercus	robur	English oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	robur	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	maculipennis	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Orthotylinae	Orthotylini	Noctuocoris	fumidus	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	vicarius	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	pilosulus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	querci	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Plagiognathus	maculipennis	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Schaffneria	davisi	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	macrocarpa	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Orthotylinae	Orthotylini	Schaffneria	davisi	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Phylinae	Phylini	Lopus	decolor	Cyperaceae			bur oak
+Miridae	Phylinae	Phylini	Plagiognathus	punctatipes	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Eurychilopterella	luridula	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Pinalitus	rubricatus	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Lopidea	media	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Plagiognathus	albatus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	pumilus	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Stenodemini	Trigonotylus	caelestialium	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Orthotylini	Paraproba	capitata	Fagaceae	Quercus	alba	white oak
+Miridae	Orthotylinae	Orthotylini	Paraproba	capitata	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	fuscicornis	Fagaceae	Quercus	alba	white oak
+Miridae	Phylinae	Phylini	Plagiognathus	politus	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fasciatus	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	rubra	northern red oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	gelatinosus	Fagaceae	Quercus	lobata	Valley oak
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	angulatus	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Lopidea	dakota	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Neolygus	fagi	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	silvosa	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Pycnocoris	ursinus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Irbisia	oreas	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Irbisia	brachycera	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Notholopisca	californica	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Hallodapini	Cyrtopeltocoris	sp	Fagaceae	Quercus	devia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	rugosa	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	castanea	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	castanea	NULL
+Miridae	Phylinae	Phylini	Roburocoris	peramplus	Fagaceae	Quercus	rugosa	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	castanea	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	castanea	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	glaucoides	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	glaucoides	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	bolanyosensis	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	devia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	depressipes	NULL
+Miridae	Phylinae	Phylini	Roburocoris	peramplus	Fagaceae	Quercus	depressipes	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	depressipes	NULL
+Miridae	Orthotylinae	Orthotylini	Melanotrichus	coagulatus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Lygus	elisus	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Lygus	elisus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Telamonanthe	pulchella	Fagaceae	Quercus		NULL
+Miridae	Orthotylinae	Orthotylini	Paraproba	mexicana	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	durifolia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	grisea	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	grisea	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	grisea	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	durifolia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	grisea	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	eduardii	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercicola	Fagaceae	Quercus	grisea	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	eduardii	NULL
+Aetalionidae	Aetalioninae	Aetalionini	Aetalion	nervosopunctatum	Fagaceae	Quercus	grisea	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	sp	Fagaceae	Quercus	eduardii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercinus	Fagaceae	Quercus	grisea	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	bullatus	Fagaceae	Quercus	eduardii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	grisea	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	eduardii	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	grisea	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	tibialis	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Atractotomus	schwartzi	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Pilophorini	Pilophorus	tibialis	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Roburocoris	grandiculus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Viscacoris	interstinctus				oak mistletoe
+Membracidae	Smiliinae	Smiliini	Ophiderma	sp	Fagaceae	Quercus	grisea	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Atractotomus	jalisco	Fagaceae	Quercus	castanea	NULL
+Miridae	Orthotylinae	Orthotylini	Paraproba	mexicana	Fagaceae	Quercus	sp	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Dialeurodes	denticulatus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Tropidosteptes	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	microlepis	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	virginianus	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	rysophylla	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercicola	Fagaceae	Quercus	microlepis	NULL
+Miridae	Mirinae	Mirini	Neocapsus	sp	Fagaceae	Quercus	microlepis	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	microlepis	NULL
+Miridae	Mirinae	Mirini	Neocapsus	cuneatus	Fagaceae	Quercus	microlepis	NULL
+Miridae	Mirinae	Mirini	Neocapsus	cuneatus	Fagaceae	Quercus	rysophylla	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercicola	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Phylinae	Phylini	Atractotomus	polymorphae	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercicola	Fagaceae	Quercus	polymorpha	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	polymorpha	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nigrocinctus	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	laeta	NULL
+Miridae	Phylinae	Phylini	Atractotomus	iturbide	Fagaceae	Quercus	grandis	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	obtusata	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	sideroxyla	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercicola	Fagaceae	Quercus	sideroxyla	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	scytophylla	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	canbyi	NULL
+Miridae	Phylinae	Phylini	Atractotomus	iturbide	Fagaceae	Quercus	canbyi	NULL
+Miridae	Phylinae	Phylini	Atractotomus	iturbide	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Phylinae	Phylini	Atractotomus	schaffneri	Fagaceae	Quercus	polymorpha	NULL
+Miridae	Mirinae	Mirini	Neocapsus	cuneatus	Fagaceae	Quercus	canbyi	NULL
+Miridae	Mirinae	Mirini	Neocapsus	sp	Fagaceae	Quercus	canbyi	NULL
+Membracidae	Smiliinae	Telamonini	Palonica	pyramidata	Fagaceae	Quercus	laeta	NULL
+Issidae	Issinae	Issini	Paralixes	perpendicularis	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Palonica	pyramidata	Fagaceae	Quercus	mexicana	NULL
+Miridae	Mirinae	Mirini	Proba	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Atractotomus	sp	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	magnoliaefolia	NULL
+Miridae	Deraeocorinae	Termatophylini	Termatophylum	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	durifolia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	celsus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	digitata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	digitata	finger oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	nigra	water oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	sp	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	velutina	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	phellos	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	flavolatus	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	minor	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	digitata	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	minor	post oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	alta	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	digitata	southern red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	coccinea	southern red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	acuminata	oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	digitata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	digitata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	amnicola	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	digitata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	phellus	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	phellos	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	rubra	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	phellos	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	digitata	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	sp	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	sp	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Ceresini	Spissistilus	festinus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Polyglyptini	Publilia	reticulata	Fagaceae	Quercus	rubra	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	minor	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	militaris	Fagaceae	Quercus	prinoides	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	oblongifolia	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Polyglyptini	Publilia	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	huachucae	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	huachucae	Fagaceae	Quercus	emoryi	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	sp	Fagaceae	Quercus		oak
+Miridae	Phylinae	Phylini	Roburocoris	grandiculus	Fagaceae	Quercus	undulata	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	undulata	wavyleaf oak
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	undulata	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	undulata	NULL
+Miridae	Phylinae	Phylini	Tuxedo	nicholi	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	emoryi	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercinus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercinus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercinus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	oblongifolia	Mexican blue oak
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	emoryi	NULL
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	oblongifolia	Mexican blue oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Occidentodema	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Galbinocoris	caepa	Fagaceae	Quercus		NULL
+Issidae	Issinae	Thioniini	Picumna	chinai	Fagaceae	Quercus		NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	rufistigma	Fagaceae	Quercus	turbinella	Sonoran scrub oak
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	reticulata	NULL
+Miridae	Mirinae	Mirini	Phytocoris	aurora	Fagaceae	Quercus	reticulata	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	reticulata	NULL
+Miridae	Orthotylinae	Orthotylini	Dichaetocoris	anasazi	Fagaceae	Quercus	reticulata	NULL
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	reticulata	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Roburocoris	grandiculus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Viscacoris	phoradendronae				mistletoe on oak
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Mirinae	Mirini	Phytocoris	chihuahuanae	Fagaceae	Quercus	arizonica	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	apache	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	intermontanus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	hypoleucoides	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercinus	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	undulata	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	undulata	wavyleaf oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	undulata	NULL
+Miridae	Orthotylinae	Orthotylini	Pilophoropsis	quercicola	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	oblongifolia	Mexican blue oak
+Membracidae	Smiliinae	Smiliini	Ashmeadea	carinata	Fagaceae	Quercus	kelloggii	NULL
+Miridae	Orthotylinae	Ceratocapsini	Pilophoropsidea	fascipennis	Fagaceae	Quercus	sp	oak
+Issidae	Issinae	Thioniini	Thionia	producta				oak
+Membracidae	Smiliinae	Smiliini	Ashmeadea	carinata				oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	compacta	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	reticulata	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Mirinae	Mirini	Phytocoris	hypoleucoides	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	hypoleucoides	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	conspurcatus	Fagaceae	Quercus	emoryi	NULL
+Aetalionidae	Aetalioninae	Aetalionini	Aetalion	nervosopunctatum	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Grandolobus	grandis	Fagaceae	Quercus	gambelii	NULL
+Cicadidae	Cicadinae	Cryptotympanini	Diceroprocta	arizona	Fagaceae	Quercus	sp	oak
+Reduviidae	Phymatinae	Phymatini	Phymata	americana				oak
+Coreidae	unknown	unknown	Gen	sp				oak
+Reduviidae	Phymatinae	Phymatini	Phymata	americana	Compositae	unkown		oak
+Pentatomidae	Discocephalinae	Discocephalini	Lineostethus	tenebricornis	Fagaceae	Quercus		oak
+Issidae	Issinae	Thioniini	Picumna	chinai	Fagaceae	Quercus	arizonica	NULL
+Reduviidae	Phymatinae	Phymatini	Phymata	rossi				oak
+Miridae	Phylinae	Phylini	Tuxedo	elongatus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	huachucae	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	huachucae	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	exiguus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	turbinella	Sonoran scrub oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Phytocoris	arizonensis	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Orthotylini	Dichaetocoris	anasazi	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	garryae	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	ute	Fagaceae	Quercus	turbinella	NULL
+Miridae	Isometopinae	Myiommini	Corticoris	unicolor	Fagaceae	Quercus	sp	NULL
+Miridae	Isometopinae	Myiommini	Corticoris	unicolor	Fagaceae	Quercus	turbinella	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	acutus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	gambelii	Gambel oak
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Occidentodema	sp	Fagaceae	Quercus	gambelii	NULL
+Flatidae	Flatinae	Nephesini	Ormenis	barberi	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Irbisia	serrata	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	apache	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Atractotomus	acaciae				oak
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	serrata	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Atractotomus	quercinus				oak
+Miridae	Phylinae	Phylini	Atractotomus	balli				oak
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi				oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	arizonica	Arizona white oak
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Pronotocrepini	Teleorhinus	tephrosicola	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Phylini	Atractotomus	quercinus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	aesculinus	Fagaceae	Quercus	oblongifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Dichrooscytus	uhleri	Fagaceae	Quercus	turbinella	Sonoran scrub oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	gilensis	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	emoryi	Emory oak
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus	Fagaceae	Quercus	emoryi	NULL
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	emoryi	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercicola	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercinus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercinus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Neoborops	vigilax	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	apache	Fagaceae	Quercus	arizonica	NULL
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	arizonica	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	sp				oak
+Membracidae	Smiliinae	Smiliini	Telamonanthe	rileyi				oak
+Cicadidae	Tibicininae	Tibicinini	Okanagana	hesperia	Fagaceae	Quercus	pungens	NULL
+Miridae	Phylinae	Phylini	Tuxedo	nicholi	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Tuxedo	cruralis	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Irbisia	serrata	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	rubroornatus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus				oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	pseudoblongifoliae	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Pronotocrepini	Teleorhinus	tephrosicola	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	pintoi	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Phoenicocoris	nevadensis	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	apache	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	apache	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	apache	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Dichrooscytus	uhleri	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	intermontanus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercinus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	gilensis	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	gilensis	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	ute	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Phylinae	Pronotocrepini	Teleorhinus	tephrosicola	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	arizonica	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	teton	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	fuscipunctatus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Megalopsallus	nicholi	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Tuxedo	nicholi	Fagaceae	Quercus	arizonica	NULL
+Miridae	Phylinae	Phylini	Tuxedo	nicholi	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	reticulata	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Phylinae	Phylini	Atractotomus	ovatus	Fagaceae	Quercus	reticulata	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cochise	Fagaceae	Quercus	hypoleucoides	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	rugosa	NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	quercicola	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Isometopinae	Myiommini	Corticoris	unicolor	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Deraeocorinae	Deraeocorini	Eurychilopterella	barberi	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	relativus	Fagaceae	Quercus	turbinella	NULL
+Cicadellidae	Deltocephalinae	Athysanini	Colladonus	belli				oak
+Cicadellidae	Deltocephalinae	Pendarini	Paraphlepsius (Paraphysius)	lascivius				oak
+Cicadellidae	Deltocephalinae	Chiasmini	Exitianus	exitiosus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Polyglyptini	Publilia	modesta	Fagaceae	Quercus		NULL
+Membracidae	Darninae	Darnini	Stictopelta	nova	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Polyglyptini	Publilia	modesta	Fagaceae	Quercus		oak
+Miridae	Mirinae	Mirini	Lygus	hesperus	Fagaceae	Quercus	oblongifolia	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nigrocinctus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	intermontanus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	virginianus	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	oblongifolia	NULL
+Miridae	Mirinae	Mirini	Phytocoris	navajo	Fagaceae	Quercus	rugosa	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	simplex	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Ashmeadea	carinata	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	apache	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	reticulata	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuropleurocelus	nigrans	Fagaceae	Quercus	sp	oak
+Miridae	Bryocorinae	Eccritotarsini	Halticotoma	valida				oak
+Flatidae	Flatinae	Nephesini	Ormenis	saucia	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Chlamydatus	monilipes	Fagaceae			oak
+Miridae	Phylinae	Phylini	Atractotomus	nicholi	Fabaceae	Acacia		oak
+Issidae	Issinae	Thioniini	Picumna	chinai	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Amastrini	Vanduzea	laeta	Fagaceae	Quercus		NULL
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	humeralis				oak
+Membracidae	Smiliinae	Smiliini	Ashmeadea	carinata	Fagaceae	Quercus		NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	sp	NULL
+Fulgoridae	Amyclinae	Amyclini	Amycle	pinyonae	Fagaceae	Quercus	arizonica	NULL
+Cicadellidae	Agalliinae	Agalliini	Ceratagallia (Aceratagallia)	uhleri				oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Pealius	sp	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Roburocoris	grandiculus	Fagaceae	Quercus	turbinella	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	turbinella	NULL
+Miridae	Mirinae	Mirini	Phytocoris	decurvatus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	turbinella	NULL
+Miridae	Phylinae	Phylini	Occidentodema	sp	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	turbinella	Sonoran sandmat
+Miridae	Orthotylinae	Orthotylini	Hadronema	pictum	Fagaceae	Quercus	turbinella	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	turbinella	Sonoran scrub oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	turbinella	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus				oak
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae	Quercus	alba	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	stellata	post oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	forfex	Fagaceae	Quercus	muehlenbergii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	davisi	Fagaceae	Quercus	stellata	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	velutina	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	alba	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	alba	white oak
+Miridae	Orthotylinae	Ceratocapsini	Pilophoropsidea	camelus	Fagaceae	Quercus	stellata	post oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	douglasii	oak
+Miridae	Phylinae	Phylini	Ceratopsallus	pantherinus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	pantherinus	Fagaceae	Quercus	sp	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Pealius	maskelli	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus		live oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	pasaniae	Fagaceae	Quercus	densiflora	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus		oak
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	arizonensis	Fagaceae	Quercus	sp	white oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	ilex	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	coronatus	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	gelatinosus	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Miridae	Phylinae	Phylini	Rubeospineus	truncatus	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	boerneri	Fagaceae	Quercus	ilex	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	pasaniae	Fagaceae	Lithocarpus	densiflorus	tanoak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	tentaculatus	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	tentaculatus	Fagaceae	Quercus	sp	oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	davisi	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Agrioaphis)	castanicola	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	agrifolia	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	gelatinosus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Calaphidini	Euceraphis	punctipennis	Fagaceae	Quercus	rubra	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	sp	live oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	agrifolicola	Fagaceae	Quercus	wislizeni	live oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	agrifolicola	Fagaceae	Quercus	wislizeni	interior live oak
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	sp	Hooker oak
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	lobata	NULL
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	lobata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	shastan	Fagaceae	Quercus	lobata	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus	sp	Fagaceae	Quercus	douglasii	blue oak
+Miridae	Mirinae	Mirini	Irbisia	incomperta	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Mirinae	Mirini	Irbisia	incomperta	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	lobata	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus		NULL
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	kelloggii	black oak
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	kelloggii	California black oak
+Aphididae	Aphidinae	Macrosiphini	Dysaphis (Dysaphis)	foeniculus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	sp	Fagaceae	Quercus		oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	sp	Fagaceae	Quercus	kelloggii	California black oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	sp	Fagaceae	Quercus	douglasii	blue oak
+Phylloxeridae	Phylloxerinae	Phylloxerini	Phylloxera	tuberculifera	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	sp	oak
+Aphididae	Drepanosiphinae	Drepanosiphinae_none	Drepanaphis	acerifoliae	Fagaceae	Quercus	sp	oak
+Aphididae	Chaitophorinae	Chaitophorini	Periphyllus	sp	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	coronatus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vanduzii	Fagaceae	Quercus		NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Callifornicallis)	agrifolicola	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	bellissima	Fagaceae	Quercus	agrifolia	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuropleurocelus	sp	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	kelloggii	California black oak
+Aphididae	Aphidinae	Macrosiphini	Hyadaphis	foeniculi	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	sp	Fagaceae	Quercus	lobata	Valley oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	gelatinosus	Fagaceae	Quercus	wislizeni	interior live oak
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	garryana	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Crassomiris	fatisco	Fagaceae	Quercus	kellogii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	sewardi	Fagaceae	Quercus	kelloggii	California black oak
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Oligotylus	centralis	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Rubeospineus	truncatus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	sp	Alvord oak
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	douglasii	blue oak
+Miridae	Mirinae	Herdoniini	Dacerla	alata	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	alata	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Rubellomiris	bispinosus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Rubellomiris	bispinosus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Tuxedo	bicinctus	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	douglasii	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	alata	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Oligotylus	carneatus	Fagaceae	Quercus	douglasii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	sp	Tucker oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	john	Tucker oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	john	NULL
+Miridae	Phylinae	Phylini	Tuxedo	cruralis	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Tuxedo	cruralis	Fagaceae	Quercus	john	NULL
+Miridae	Phylinae	Phylini	Pseudatomoscelis	seriatus	Fagaceae	Quercus	douglasii	NULL
+Miridae	Mirinae	Mirini	Notholopisca	californica	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	pantherinus	Fagaceae	Quercus	douglasii	blue oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	shastan	Fagaceae	Quercus	garryana	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	kelloggii	black oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	lobata	Valley oak
+Miridae	Mirinae	Mirini	Phytocoris	fuscosignatus	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	fuscipennis	Fagaceae	Quercus	kellogii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	garryana	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	fusifrons	Fagaceae	Quercus	garryana	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola				oak
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	ilex	Holly Oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	tentaculatus	Fagaceae	Quercus	sp	live oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	chrysolepis	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	pasaniae	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	pasaniae	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Rubeospineus	bicorniger	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus		NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cerachates	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Insulaphylus	meridianus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Insulaphylus	meridianus	Fagaceae	Quercus	pacifica	NULL
+Miridae	Phylinae	Phylini	Insulaphylus	meridianus	Fagaceae	Quercus	tomentella	NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Vesperocoris	paddocki	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Vesperocoris	paddocki	Fagaceae	Quercus		NULL
+Phylloxeridae	Phylloxerinae	Phylloxerini	Phylloxera	stellata	Fagaceae	Quercus	dumosa	scrub oak
+Miridae	Phylinae	Phylini	Ceratopsallus	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Notholopisca	californica	Fagaceae	Quercus	dumosa	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	engelmannii	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	sp	Fagaceae	Quercus	myrsinifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	sp	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	englemanni	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	acutissima	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	englemanni	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	englemanni	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Lachninae	Lachnini	Longistigma	caryae	Fagaceae	Quercus	sp	oak
+Aphididae	Hormaphidinae	Nipponaphidini	Thoracaphis	sp	Fagaceae	Quercus	ilex	Holly Oak
+Miridae	Phylinae	Phylini	Crassomiris	anaticula	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Rubellomiris	mariposa	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Irbisia	morio	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Irbisia	silvosa	Fagaceae	Quercus	lobata	NULL
+Miridae	Mirinae	Mirini	Irbisia	californica				oak and grass
+Miridae	Mirinae	Mirini	Irbisia	solani				oak and grass
+Miridae	Phylinae	Phylini	Crassomiris	anaticula	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Crassomiris	fatisco	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Tuxedo	bicinctus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Crassomiris	anaticula	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Rubellomiris	mariposa	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	wislizeni	interior live oak
+Miridae	Phylinae	Phylini	Atractotomus	sp	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Rubellomiris	mariposa	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	verticalis	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Orthotylinae	Orthotylini	Melanotrichus	coagulatus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	sp	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuropleurocelus	sp	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	lobata	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Pealius	maskelli	Fagaceae	Quercus	agrifolia	live oak
+Miridae	Phylinae	Phylini	Crassomiris	fatisco	Fagaceae	Quercus	garryana	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus	kelloggii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	shastan	Fagaceae	Quercus	kellogii	NULL
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	douglasii	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	bellissima	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	douglasii	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	boerneri	Fagaceae	Quercus	suber	cork oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	coronatus	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	lobata	Valley oak
+Miridae	Mirinae	Mirini	Irbisia	cuneomaculata	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	sp	Fagaceae	Quercus	douglasii	blue oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	tentaculatus	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	shastan				white oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	sp	Valley oak
+Aphididae	Hormaphidinae	Nipponaphidini	Quadrartus	agrifoliae	Fagaceae	Quercus	sp	oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	berberidifolia	scrub oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	sp	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	agrifolia	live oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Quercophylus	gonoporospinus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	sp	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuropleurocelus	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	suber	cork oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	melanops	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Callifornicallis)	agrifolicola	Fagaceae	Quercus	wislizeni	interior live oak
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Quercophylus	gonoporospinus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Rubeospineus	bicorniger	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	englemanni	NULL
+Miridae	Phylinae	Phylini	Vesperocoris	paddocki	Fagaceae	Quercus	englemanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	englemanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	engelmannii	Engelmann oak
+Miridae	Mirinae	Mirini	Irbisia	silvosa	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus		NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Pealius	kelloggi	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus		NULL
+Aphididae	Aphidinae	Aphidini	Aphis (Aphis)	gossypii	Fagaceae	Quercus	dumosa	California scrub oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	vaporariorum	Fagaceae	Quercus	sp	live oak
+Miridae	Mirinae	Mirini	Irbisia	oreas	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae				oak
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	chrysolepis	Fagaceae	Quercus	englemanni	Engelmann oak
+Miridae	Phylinae	Phylini	Europiella	artemisiae	Fagaceae	Quercus	dumosa	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	sp	oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sp	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Tuxedo	drakei				oak
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	palmeri	NULL
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	palmeri	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	palmeri	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	fusifrons	Fagaceae	Quercus	palmeri	Palmer oak
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	englemanni	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	engelmannii	NULL
+Miridae	Phylinae	Phylini	Rubellomiris	sparus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Rubellomiris	sparus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Orthotylinae	Orthotylini	Paraproba	hamata	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Chlamydatus	associatus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Orthotylinae	Orthotylini	Melymacra	apicalis	Fagaceae	Quercus	wislizeni	interior live oak
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	kellogii	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	palmeri	Palmer oak
+Miridae	Phylinae	Phylini	Roburocoris	exiguus	Fagaceae	Quercus	dumosa	NULL
+Miridae	Mirinae	Mirini	Irbisia	oreas	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	sita	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	cuneomaculata	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	silvosa	Fagaceae	Quercus	sp	NULL
+Pentatomidae	Pentatominae	Pentatomini	Acrosternum	hilare	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	wislizeni	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	essigi	Fagaceae	Quercus	sp	oak
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	douglasii	blue oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	drewsi	Fagaceae	Quercus	ilex	Holly Oak
+Aphididae	Chaitophorinae	Chaitophorini	Chaitophorus	sp	Fagaceae	Quercus	lobata	Valley oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	essigi	Fagaceae	Quercus	lobata	Valley oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	prinus	chestnut oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	macrocarpa	bur oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	macrocarpa	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	coccinea	scarlet oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	douglasii	blue oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	drewsi	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	alba	white oak
+Miridae	Phylinae	Phylini	Rubeospineus	bicorniger	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Phytocoris	rubrimaculatus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Phytocoris	cunealis	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	wislizeni	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	alba	white oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	boerneri	Fagaceae	Quercus	ilex	Holly Oak
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	sp	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	mediospinosa	Fagaceae	Quercus	sp	NULL
+Geocoridae	none	Geocorini	Geocoris	pallens	Fagaceae	Quercus	agrifolia	NULL
+Pentatomidae	Pentatominae	Pentatomini	Banasa	dimiata	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Tuxedo	bicinctus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Atractotomus	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	berberidifolia	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	berberidifolia	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	sp	Fagaceae	Quercus	berberidifolia	scrub oak
+Rhopalidae	Rhopalinae	Harmostini	Harmostes	reflexulus	Fagaceae	Quercus	arizonica	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	agrifolia	blue oak
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	douglasii	blue oak
+Tingidae	Tinginae	Tingini	Corythucha	sphaeralceae	Fagaceae	Quercus	dumosa	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	kelloggii	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	kiowanicus	Fagaceae	Quercus	dumosa	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	agrifolicola	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetralicia	sp	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Rhinacloa	forticornis	Fagaceae	Quercus	turbinella	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	kelloggii	NULL
+Miridae	Phylinae	Phylini	Chlamydatus	associatus	Fagaceae	Quercus	agrifolia	California live oak
+Miridae	Mirinae	Mirini	Phytocoris	rufoscriptus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	oxycedrus	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	ilex	Holly Oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	suber	cork oak
+Miridae	Mirinae	Mirini	Irbisia	mollipes	Fagaceae	Quercus	dumosa	NULL
+Miridae	Mirinae	Mirini	Dichrooscytus	longirostris	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	tomentosus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Orthotylinae	Orthotylini	Orthotylus	fraternus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Atractotomus	agrifoliae	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Brooksetta	ferox	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Aoplonema	sp	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Phallospinophylus	setosus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Phylinae	Phylini	Roburocoris	maculosus	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Mirinae	Mirini	Closterotomus	norvegicus	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	ilex	Holly Oak
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	engelmannii	Engelmann oak
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	gambelii	Gambel oak
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	engelmannii	oak and grass
+Miridae	Mirinae	Mirini	Irbisia	californica	Asteraceae	Gutierrezia	sarothrae	oak and grass
+Miridae	Mirinae	Mirini	Irbisia	silvosa	Fagaceae	Quercus	engelmanni	NULL
+Miridae	Mirinae	Mirini	Phytocoris	rufoscriptus	Fagaceae	Quercus		NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	agrifolia	NULL
+Miridae	Bryocorinae	Dicyphini	Tupiocoris	notatus	Fagaceae	Quercus	agrifolia	NULL
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	arizonensis				oak
+Pentatomidae	Asopinae	none	Apateticus	bracteatus	Fagaceae	Quercus	dumosa	NULL
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae			oak
+Miridae	Mirinae	Mirini	Irbisia	californica	Fagaceae	Quercus	chrysolepis	oak
+Miridae	Mirinae	Mirini	Irbisia	mollipes	Fagaceae	Quercus	sp	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	intermedia	Fagaceae	Quercus	sp	oak
+Pentatomidae	Pentatominae	Halyini	Brochymena	sulcata				oak
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	dumosa	California scrub oak
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	englemanni	Engelmann oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	agrifolia	California live oak
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	lobata	NULL
+Miridae	Phylinae	Phylini	Rubeospineus	truncatus	Fagaceae	Quercus	lobata	NULL
+Miridae	Mirinae	Mirini	Phytocoris	canescens	Fagaceae	Quercus	lobata	Valley oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus	sp	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	agrifolia	oak
+Miridae	Phylinae	Phylini	Insulaphylus	cruz	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Insulaphylus	cruz	Fagaceae	Quercus	dumosa	NULL
+Miridae	Mirinae	Mirini	Irbisia	brachycera	Fagaceae	Quercus	dumosa	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	alata	Fagaceae	Quercus	dumosa	NULL
+Miridae	Phylinae	Phylini	Insulaphylus	cruz	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Hormaphidinae	Nipponaphidini	Thoracaphis	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	sp	live oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	vaporariorum	Anacardiaceae	Rhus	diversiloba	poison oak
+Miridae	Mirinae	Mirini	Irbisia	californica				oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	kelloggii	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	annulatus	Fagaceae	Quercus	lobata	NULL
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	nigra	water oak
+Phylloxeridae	Phylloxerinae	Phylloxerini	Phylloxera	stellata	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	pasaniae	Fagaceae	Lithocarpus	sp	tanoak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	agrifolia	live oak
+Miridae	Phylinae	Phylini	Crassomiris	fatisco	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	aquilonius	Fagaceae	Quercus	sp	small leaf oak
+Miridae	Phylinae	Phylini	Ceratopsallus	aquilonius	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	schwarzi	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Orthotylini	Pamillia	behrensii	Fagaceae	Quercus	sp	oak
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	lobata	Valley oak
+Miridae	Phylinae	Phylini	Ceratopsallus	aquilonius	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Phytocoris	fuscosignatus	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sp	Fagaceae	Quercus	garryana	NULL
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	quercifolii	Fagaceae	Quercus	sp	oak
+Miridae	Deraeocorinae	Deraeocorini	Eurychilopterella	pacifica	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Telamonanthe	pulchella	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	alba	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				pin oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	maureri	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	sp	Fagaceae	Quercus	sp	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	quercifolii	Fagaceae	Quercus	dumosa	California scrub oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	quercifolii	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Miridae	Phylinae	Phylini	Tuxedo	cruralis	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Irbisia	solani	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Pseudatomoscelis	seriatus	Fagaceae			oak
+Miridae	Phylinae	Phylini	Tuxedo	flavicollis	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	fuscipennis	Fagaceae	Quercus	sp	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	lobata	Valley oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	lobata	Valley oak
+Pentatomidae	Pentatominae	Pentatomini	Cosmopepla	conspicillaris	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	aquilonius	Fagaceae	Quercus	douglasii	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	verticalis	Fagaceae	Quercus	douglasii	NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	marginata	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	mediospinosa	Fagaceae	Quercus	wislizeni	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	kellogii	NULL
+Miridae	Mirinae	Herdoniini	Dacerla	alata				oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sp				black oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola				black oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Trialeurodes	vaporariorum	Fagaceae	Quercus	ilex	Holly Oak
+Miridae	Mirinae	Mirini	Phytocoris	sewardi	Fagaceae	Quercus	vaccinifolia	huckleberry oak
+Miridae	Phylinae	Phylini	Oligotylus	ceanothi	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Quernocoris	caliginosus	Fagaceae	Quercus	kellogii	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	agrifoliae	Fagaceae	Quercus	agrifolia	NULL
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	sp	Fagaceae	Quercus	kelloggii	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vanduzii	Fagaceae	Quercus		oak
+Miridae	Phylinae	Phylini	Ceratopsallus	pantherinus	Fagaceae	Quercus	lobata	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	sp	oak
+Miridae	Orthotylinae	Ceratocapsini	Pamilla	behrensi	Fagaceae	Quercus	lobata	NULL
+Aphididae	Chaitophorinae	Chaitophorini	Chaitophorus	sp	Fagaceae	Quercus	wislizeni	Sierra Live Oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	wislizeni	interior live oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculoides)	sp	Fagaceae	Quercus	chrysolepis	Canyon Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus	sp	Fagaceae	Quercus	ilex	Holly Oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Callifornicallis)	agrifolicola	Fagaceae	Quercus	agrifolia	Coast Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Pacificallis)	californicus	Fagaceae	Quercus	dumosa	California scrub oak
+Aphididae	Aphidinae	Macrosiphini	Uroleucon (Lambersius)	sp	Fagaceae	Quercus	wislizeni	Sierra Live Oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus	sp	Fagaceae	Quercus	lobata	Valley oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	acutus	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus		oak
+Pentatomidae	Pentatominae	Pentatomini	Euschistus	inflatus	Fagaceae	Quercus	gambelii	Gambel oak
+Cicadidae	Tibicininae	Platypediini	Platypedia	sp	Fagaceae	Quercus	gambelii	Gambel oak
+Pentatomidae	Asopinae	Asopini	Podisus	placidus	Fagaceae	Quercus		oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sp				scrub oak
+Miridae	Phylinae	Pilophorini	Pilophorus	sp	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	quercicola	Fagaceae	Quercus	gambelii	Gambel oak
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	humeralis	Fagaceae	Quercus	gambelii	Gambel oak
+Miridae	Phylinae	Phylini	Bisulcopsallus	polhemorum	Fagaceae	Quercus	gambelii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola	Fagaceae	Quercus	gambelii	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fusiformis	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Smiliinae	Telamonini	Palonica	pyramidata	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Telamonanthe	rileyi	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	kiowa	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	limus	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus		oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fusiformis				oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	denticulatus				oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	denticulatus				Gambel oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	denticulatus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	limus	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	acutus	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Smiliini	Telamonanthe	pulchella	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus		oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus		scrub oak
+Miridae	Mirinae	Mirini	Phytocoris	cercocarpi	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	vicarius	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	inops	Fagaceae	Quercus	gambelii	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	ute	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	acutus	Fagaceae	Quercus	gambelii	Gambel oak
+Miridae	Phylinae	Phylini	Chlamydatus	associatus	Fagaceae	Quercus	gambelii	Gambel oak
+Miridae	Phylinae	Phylini	Oligotylus	cercocarpicola	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Psallovius	piceicola	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Atractotomus	cercocarpi	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	longisetosus	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Phytocoris	interspersus	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	denticulatus	Fagaceae	Quercus	gambelii	Gambel oak
+Pentatomidae	Asopinae	none	Apateticus	bracteatus	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	gambelii	Gambel oak
+Cicadidae	Tibicininae	Platypediini	Platypedia	sp	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	gambelii	NULL
+Cicadidae	Tibicininae	Tibicinini	Okanagana	hesperia	Fagaceae	Quercus	macrocarpus	bur oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Lithocarpus		oak
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	quercicola	Fagaceae	Quercus		NULL
+Aphididae	Lachninae	Lachnini	Lachnus	allegheniensis	Fagaceae	Quercus	gunnisonii	water oak
+Miridae	Mirinae	Mirini	Phytocoris	kiowa	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	interspersus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	eurekae	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	stellatus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	gambelii	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	falcicula	Fagaceae	Quercus	gambelii	NULL
+Pentatomidae	Pentatominae	Pentatomini	Banasa	rolstoni	Fagaceae	Quercus	gambelii	Gambel oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus		oak
+Miridae	Phylinae	Pilophorini	Pilophorus	longisetosus	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Bisulcopsallus	fuscipunctatus	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus		oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	sp	scrub oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	sp	scrub oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Ericaceae	Vaccinium		oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	basalis	Fagaceae	Quercus	gambelii	NULL
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	quercicola	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	inornata	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	inornata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	inornata	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Telamonini	Telamona	dubiosa	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	concava	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	coccifera	scarlet oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	alba	northern red oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Telamonini	Telamona	unicolor	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	inflatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gratiosus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gratiosus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gratiosus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius				chestnut oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	crataegi	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	turriculatus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	turriculatus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	alba	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	caryae	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	palmeri				oak
+Miridae	Mirinae	Mirini	Phytocoris	sp	Fagaceae	Quercus	alba	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	caesar	Fagaceae	Quercus	coccinea	NULL
+Miridae	Mirinae	Mirini	Phytocoris	confluens	Fagaceae	Quercus	rubra	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	coccinea	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	alba	NULL
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	alba	NULL
+Miridae	Phylinae	Phylini	Psallus	variabilis	Fagaceae	Quercus	alba	NULL
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	alba	white oak
+Cicadellidae	Typhlocybinae	Typhlocybini	Empoa (Empoa)	casta	Fagaceae	Quercus	palustris	NULL
+Cicadellidae	Hecaliinae	Hecaliinae_none	Parabolocratus	flavidus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	bicolor	NULL
+Pentatomidae	Pentatominae	Pentatomini	Acrosternum	hilare	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Telamonini	Heliria	gibberata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Helonica	excelsa	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Helonica	excelsa	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	velutina	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	lateralis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	palustris	pin oak
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	phellos	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	rubra	red oak
+Cicadellidae	Typhlocybinae	Typhlocybini	Empoa (Empoa)	querci	Fagaceae	Quercus	palustris	NULL
+Cicadellidae	Typhlocybinae	Typhlocybini	Empoa (Empoa)	rubricola	Fagaceae	Quercus	palustris	NULL
+Cicadellidae	Typhlocybinae	Typhlocybini	Ossiannilssonola	antigone	Fagaceae	Quercus	rubra	NULL
+Cicadellidae	Typhlocybinae	Typhlocybini	Ossiannilssonola	knulli	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	sp	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	sp	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	rubra	NULL
+Flatidae	Flatinae	Nephesini	Metcalfa	pruinosa	Fagaceae	Quercus	sp	NULL
+Acanaloniidae	Acanaloniinae	Acanaloniini	Acanalonia	conica	Fagaceae	Quercus	sp	NULL
+Flatidae	Flatinae	Nephesini	Ormenoides	venusta	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	pruni	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	dentata	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus		white oak
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	lyrata	overcup oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	nigra	water oak
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nitidus	Fagaceae	Quercus	nigra	water oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	marilandica	blackjack oak
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	marilandica	blackjack oak
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Telamonini	Telamona	unicolor	Fagaceae	Quercus	phellos	willow oak
+Derbidae	Cedusinae	Cedusini	Cedusa	mallochi	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	prinus	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	michauxii	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	shumardii	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	granovskyi	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	longiunguis	Fagaceae	Quercus	cinerea	NULL
+Flatidae	Flatoidinae	Flatoidini	Flatoidinus	punctatus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Lachnochaitophorus	obscurus	Fagaceae	Quercus	laurifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Lachnochaitophorus	obscurus	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	prinus	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	prinus	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	nigra	NULL
+Achilidae	Achilinae	Plectoderini	Catonia	carolina	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus		laurel oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	virginiana	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	virginiana	NULL
+Achilidae	Achilinae	Myconini	Cixidia	colorata	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	virginiana	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	virginiana	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	laevis	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	cinerea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	nigra	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	prinus	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	meridionalis	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	lyrata	NULL
+Aphididae	Eriosomatinae	Eriosomatini	Kaltenbachiella	ulmifusa	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	incana	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	virginiana	NULL
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	perileuca	Fagaceae	Quercus	virginiana	southern live oak
+Miridae	Mirinae	Mirini	Taedia	johnstoni	Fagaceae	Quercus	virginiana	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	aurantiacus	Fagaceae	Quercus	inopina	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	bifurcus	Fagaceae	Quercus	virginiana	NULL
+Issidae	Issinae	Issini	Exortus	punctiferus	Fagaceae	Quercus	laevis	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				laurel oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	pepperi	Fagaceae	Quercus	laurifolia	NULL
+Issidae	Issinae	Issini	Exortus	punctiferus	Fagaceae	Quercus		NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	balli	Fagaceae	Quercus	sp	oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	laurifolia	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	ellisi	Fagaceae	Quercus		NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	retusa	Fagaceae	Quercus	chapmanii	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	salvini	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Lachninae	Lachnini	Longistigma	caryae	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Creontiades	sp				turkey oak
+Miridae	Mirinae	Mirini	Lygus	lineolaris	Fagaceae	Quercus	laevis	turkey oak
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	chapmanii	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	interna	Fagaceae	Quercus	chapmanii	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	propria	Fagaceae	Quercus	chapmanii	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	sebringensis	Fagaceae	Quercus	myrsinifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	falcata	red oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	virginiana	NULL
+Achilidae	Achilinae	Plectoderini	Catonia	cinctifrons	Fagaceae	Quercus	laevis	NULL
+Achilidae	Achilinae	Myconini	Cixidia	fusca	Fagaceae	Quercus	cerris	NULL
+Flatidae	Flatoidinae	Flatoidini	Flatoidinus	punctatus	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	incana	NULL
+Caliscelidae	Caliscelinae	Caliscelini	Bruchomorpha	pallidipes	Fagaceae	Quercus	laevis	turkey oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	balli	Fagaceae	Quercus	virginiana	live oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	balli	Fagaceae	Quercus	virginiana	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus	virginiana	live oak
+Cicadidae	Cicadinae	Cicadini	Neocicada	hieroglyphica	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	laevis	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus		oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus		post oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus		post oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus				finger oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	nigra	NULL
+Miridae	Orthotylinae	Orthotylini	Schaffneria	davisi	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	falcata	NULL
+Pentatomidae	Pentatominae	Halyini	Brochymena	quadripustulata				oak
+Reduviidae	Ectrichodiinae	Ectrichodiini	Rhiginia	cruciata	Fagaceae	Quercus	sp	oak
+Achilidae	Achilinae	Plectoderini	Catonia	pini	Fagaceae	Quercus	laevis	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	memorialis	Fagaceae	Quercus	stellata	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	stellata	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	alba	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	davisi	Fagaceae	Quercus	macrocarpa	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	knighti	Fagaceae	Quercus	chapmanii	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	confirmata	Fagaceae	Quercus	imbricaria	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	trivittata	Fagaceae	Quercus	imbricaria	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	accola	Fagaceae	Quercus	bicolor	NULL
+Miridae	Mirinae	Mirini	Phytocoris	puella	Fagaceae	Quercus		NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neolygus	omnivagus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	cinereus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor				oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	mirifica	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	sp	oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi				oak
+Miridae	Mirinae	Herdoniini	Xenetus	scutellatus				oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	impar	Fagaceae	Quercus	muehlenbergii	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	delongi	Fagaceae	Quercus	palustris	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	richardsi	Fagaceae	Quercus	palustris	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	lucyae	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata				oak, chestnut, maple and willow
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	curta	Fagaceae	Quercus	macrocarpa	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	guicei	Fagaceae	Quercus	macrocarpa	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	tantilla	Fagaceae	Quercus	macrocarpa	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	basilaris	Fagaceae	Quercus	veluntia	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	alba	white oak
+Cicadidae	Cicadettinae	Taphurini	Magicicada	septendecim	Fagaceae	Quercus	alba	white oak
+Miridae	Phylinae	Phylini	Plagiognathus	politus	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	obscurus	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	griseus	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	borealis	Fagaceae	Quercus		oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neolygus	hirticulus	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	sericus	Fagaceae	Quercus	sp	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	brevipes	Fagaceae	Quercus	marilandica	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	tenuitas	Fagaceae	Quercus	marilandica	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	haysensis	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Orthotylinae	Orthotylini	Reuteria	bifurcata	Fagaceae	Quercus	stellata	NULL
+Miridae	Orthotylinae	Ceratocapsini	Pilophoropsidea	camelus	Anacardiaceae	Toxicodendron	pubescens	Atlantic poison oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	nigra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	rubra	red oak
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	harti	Fagaceae	Quercus	michauxii	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	nigra	NULL
+Achilidae	Achilinae	Plectoderini	Catonia	nava	Fagaceae	Quercus	laevis	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	virginiana	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	elliotti	Fagaceae	Quercus	sp	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	virginiana	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	phellos	NULL
+Miridae	Orthotylinae	Orthotylini	Schaffneria	davisi	Fagaceae	Quercus	ilicifolia	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	marylandica	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	falcata	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	acutissima	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus		oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	alba	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	alba	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	rubra	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola				pin oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	stellata	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	frisoni	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Atymna	querci				red oak
+Delphacidae	Delphacinae	Delphacini	Delphacodes	lutulenta	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	alba	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	frisoni	Fagaceae	Quercus	palustris	NULL
+Aphididae	Drepanosiphinae	Drepanosiphinae_none	Drepanaphis	sp	Fagaceae	Quercus	alba	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	falcata	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	alba	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	grisea	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	falcata	NULL
+Aphrophoridae	Aphrophorinae	Lepyroniini	Lepyronia	quadrangularis	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Telamonini	Glossonotus	acuminatus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Telamonini	Glossonotus	acuminatus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus	stellata	NULL
+Cixiidae	Cixiinae	Cixiini	Cixius	angustatus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	flavolatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	turriculatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	turriculatus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	velutina	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei				oak
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Stegaspidinae	Microcentrini	Microcentrus	perditus	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Telamonini	Glossonotus	univittatus	Fagaceae	Quercus		red oak
+Membracidae	Smiliinae	Polyglyptini	Publilia	concava	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Telamonini	Helonica	excelsa	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	nigra	water oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	prinus	chestnut oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	robur	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	sp	London Plane
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus	phellos	NULL
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	quercifex	Fagaceae	Quercus	kelloggii	black oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	palustris	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	prinoides	NULL
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	quercifex	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	ilicifolia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	coccinea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	diceros				oak
+Achilidae	Achilinae	Myconini	Cixidia	opaca	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	griseus	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	spreta				bur oak
+Miridae	Orthotylinae	Orthotylini	Schaffneria	davisi	Fagaceae	Quercus	velutina	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	flavipes	Fagaceae	Quercus	sp	bur oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	pilosulus	Fagaceae	Quercus	macrocarpa	bur oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	querci	Fagaceae	Quercus	macrocarpa	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	alba	white oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus				oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	arizonensis	Fagaceae	Quercus	nigra	water oak
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	nigra	NULL
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Ferrisia	virgata	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	osborni	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Hemiberlesia	lataniae	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	forbesi	Fagaceae	Quercus	nigra	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	sp	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	virginiana	oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Nanokermes	pubescens	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sylvestris	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus		NULL
+Eriococcidae	Eriococcidae_none	Eriococcidae_none_none	Eriococcus	quercus	Fagaceae	Quercus	nigra	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	sp	Fagaceae	Quercus	nigra	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	quercifex	Fagaceae	Quercus	virginiana	live oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	osborni	Fagaceae	Quercus	nigra	water oak
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Eurycoccus	blanchardii	Fagaceae	Quercus	nigra	water oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus		oak
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Ferrisia	setosa	Fagaceae	Quercus	palustris	pin oak
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Eurycoccus	blanchardii	Fagaceae	Quercus	palustris	pin oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	rubra	red oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Abgrallaspis	colorata	Fagaceae	Quercus		oak
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Heliococcus	insignis	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	arizonensis	Fagaceae	Quercus		oak
+Eriococcidae	Eriococcidae_none	Eriococcidae_none_none	Eriococcus	quercus	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Nanokermes	pubescens	Fagaceae	Quercus	stellata	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	marilandica	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	nana	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	tenebricosa	Fagaceae	Quercus	nigra	water oak
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	vitripennis	Fagaceae	Quercus	michauxii	NULL
+Reduviidae	Harpactorinae	Harpactorini	Sinea	spinipes	Fagaceae	Quercus	stellata	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	firma	Fagaceae	Quercus	stellata	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	ancylus	Fagaceae	Quercus	prinus	chestnut oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	juglansregiae	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sylvestris	Fagaceae	Quercus	prinus	chestnut
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	distincta	Fagaceae	Quercus	prinus	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	knullae	Fagaceae	Quercus	chapmanii	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	catesbaei	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	nigra	water oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	prinus	chestnut oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	laurifolia	NULL
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	nigra	water oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	laurifolia	laurel oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Allokermes	galliformis	Fagaceae	Quercus		oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	rubra	red oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sylvestris	Fagaceae	Quercus	prinus	chestnut oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	sp	oak
+Aphididae	Eriosomatinae	Eriosomatini	Kaltenbachiella	ulmifusa	Fagaceae	Quercus	nigra	water oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	meridionalis	Fagaceae	Quercus	nigra	water oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Allokermes	galliformis	Fagaceae	Quercus	nigra	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	quercifex	Fagaceae	Quercus		oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	richardsi	Fagaceae	Quercus	rubra	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Abgrallaspis	colorata	Fagaceae	Quercus	phellos	willow oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	palustris	pin oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	phellos	NULL
+Cicadidae	Cicadinae	Cryptotympanini	Tibicen	similaris	Fagaceae	Quercus	sp	oak
+Eriococcidae	Eriococcidae_none	Eriococcidae_none_none	Eriococcus	sp	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	osborni	Fagaceae	Quercus	phellus	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	phellos	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	phellos	willow oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	ancylus	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	ancylus	Fagaceae	Quercus	nigra	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Toumeyella	sp	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	sp	Fagaceae	Quercus	prinus	chestnut oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Quernaspis	quercus	Fagaceae	Quercus	virginiana	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Quernaspis	quercus	Fagaceae	Quercus	virginiana	live oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Allokermes	galliformis	Fagaceae	Quercus	virginiana	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	sp	Fagaceae	Quercus	phellos	water oak
+Coccidae	Coccidae_none	Coccidae_none_none	Parthenolecanium	quercifex	Fagaceae	Quercus		water oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Abgrallaspis	colorata	Fagaceae	Quercus	nigra	water oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus		laurel oak
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Planococcus	citri				evergreen oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	osborni	Fagaceae	Quercus	phellos	willow oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	immota	Fagaceae	Quercus	phellos	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	phellos	Fagaceae	Quercus	phellos	NULL
+Eriococcidae	Eriococcidae_none	Eriococcidae_none_none	Eriococcus	sp	Fagaceae	Quercus	nigra	water oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	socialis	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	socialis	Fagaceae	Quercus		NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Diaspidiotus	perniciosus	Fagaceae	Quercus		oak
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	lucyae	Fagaceae	Quercus	lyrata	NULL
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus		chestnut oak
+Eriococcidae	Eriococcidae_none	Eriococcidae_none_none	Eriococcus	quercus	Fagaceae	Quercus	marilandica	blackjack oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Allokermes	galliformis	Fagaceae	Quercus	rubra	red oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Kermes	sp	Fagaceae	Quercus	phellos	willow oak
+Kermesidae	Kermesidae_none	Kermesidae_none_none	Nanokermes	pubescens	Fagaceae	Quercus		post oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	nebulosus	Fagaceae	Quercus	nigra	NULL
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	tenebricosa	Fagaceae	Quercus		oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	sp	Fagaceae	Quercus	phellus	water oak
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	vitripennis	Fagaceae	Quercus	alba	NULL
+Pseudococcidae	Pseudococcidae_none	Pseudococcidae_none_none	Eurycoccus	blanchardii	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	imbricaria	shingle oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	imbricaria	shingle oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	muhlenbergii	yellow oak
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	humeralis	Fagaceae	Quercus	alba	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	imbricaria	NULL
+Aphididae	Drepanosiphinae	Drepanosiphinae_none	Drepanaphis	kanzensis	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	imbricaria	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	frisoni	Fagaceae	Quercus	palustris	pin oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	palustris	pin oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	sp	Fagaceae	Quercus	imbricaria	NULL
+Miridae	Mirinae	Mirini	Neolygus	geneseensis	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	caryae	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	semivittatus	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Phytocoris	conspurcatus	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Phytocoris	puella	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	imbricaria	shingle oak
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus				pin oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus				black oak
+Aphididae	Lachninae	Lachnini	Longistigma	caryae	Fagaceae	Quercus	palustris	pin oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	alba	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	memorialis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	griseus	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	geneseensis	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	stellata	post oak
+Membracidae	Smiliinae	Telamonini	Archasia	auriculata				black oak
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	stellata	post oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	palustris	pin oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuropleurocelus	nevadensis	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Tetraleurodes	quercophyllae	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	boerneri	Fagaceae	Quercus	robur	English oak
+Achilidae	Achilinae	Plectoderini	Synecdoche	impunctata	Fagaceae	Quercus		NULL
+Derbidae	Otiocerinae	Otiocerini	Apache	degeeri	Fagaceae	Quercus		oak
+Derbidae	Otiocerinae	Otiocerini	Apache	degeeri	Fagaceae	Quercus	rubra	NULL
+Derbidae	Otiocerinae	Otiocerini	Apache	degeeri	Fagaceae	Quercus	alba	white oak
+Derbidae	Otiocerinae	Patarini	Patara	vanduzei	Fagaceae	Quercus	alba	white oak
+Derbidae	Otiocerinae	Otiocerini	Otiocerus	coquebertii				oak
+Derbidae	Otiocerinae	Otiocerini	Otiocerus	coquebertii	Fagaceae	Quercus	rubra	red oak
+Derbidae	Otiocerinae	Otiocerini	Apache	degeeri	Fagaceae	Quercus	alba	NULL
+Achilidae	Achilinae	Plectoderini	Synecdoche	impunctata	Fagaceae	Quercus	alba	NULL
+Achilidae	Achilinae	Plectoderini	Synecdoche	impunctata	Fagaceae	Quercus	velutina	black oak
+Achilidae	Achilinae	Plectoderini	Synecdoche	impunctata	Fagaceae	Quercus	alba	white oak
+Achilidae	Achilinae	Plectoderini	Synecdoche	dimidiata	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	palustris	pin oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	velutina	NULL
+Aphididae	Calaphidinae	Panaphidini	Eucallipterus	tiliae	Fagaceae	Quercus	veluntia	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	sp	NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	coccinea	scarlet oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	velutina	black oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	velutina	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	velutina	black oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	velutina	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	sp	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus		NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	sp	Fagaceae	Quercus	veluntia	black oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius				oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus				oak
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	sp	oak
+Miridae	Mirinae	Mirini	Phytocoris	confluens	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Archasia	auriculata				oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	sp	oak
+Aphididae	Aphidinae	Macrosiphini	Cavariella	araliae	Fagaceae	Quercus	sp	NULL
+Aphididae	Chaitophorinae	Chaitophorini	Chaitophorus	sp	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Calaphidini	Euceraphis	mucida	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	longiunguis	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata				oak
+Aphididae	Lachninae	Lachnini	Longistigma	caryae	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	auriculata	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Telamonini	Heliria	cristata	Fagaceae	Quercus	palustris	pin oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	sp	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gratiosus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nitidus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nitidus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nitidus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	prinoides	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	parvulus	Fagaceae	Quercus	prinoides	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	parvulus	Fagaceae	Quercus	nana	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	nimbatulus	Fagaceae	Quercus	nana	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	nimbatulus	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	nimbatulus	Fagaceae	Quercus	prinoides	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	auriculata				post oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus		NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	ilicifolia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	rubra	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	sp	Fagaceae	Quercus	alba	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercifoliae	Fagaceae	Quercus	borealis	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	sp	oak
+Aphididae	Eriosomatinae	Pemphigini	Prociphilus	sp	Fagaceae	Quercus	alba	white oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	sp	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	sp	Fagaceae	Quercus	palustris	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	prinus	NULL
+Aphididae	Drepanosiphinae	Drepanosiphinae_none	Drepanaphis	acerifoliae	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Calaphidini	Euceraphis	betulae	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	granovskyi	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	longiunguis	Fagaceae	Quercus	rubra	red oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Atymna	castaneae				oak
+Membracidae	Smiliinae	Smiliini	Atymna	helena				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	rubricornis				oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	turbinella	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	cerachates	Fagaceae	Quercus	virginiana	NULL
+Miridae	Phylinae	Phylini	Pinomiris	knighti	Fagaceae	Quercus	sp	scrub oak
+Miridae	Orthotylinae	Orthotylini	Lopidea	falcata				oak
+Membracidae	Smiliinae	Smiliini	Glossonotus	nimbatulus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	nimbatulus	Fagaceae	Quercus	berberidifolia	NULL
+Cicadidae	Cicadinae	Cryptotympanini	Tibicen	canicularis	Fagaceae	Quercus	sp	scrub oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	macrocarpa	bur oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	bicolor	oak
+Membracidae	Smiliinae	Telamonini	Telamona	maculata	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	alatus	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	bicolor	swamp white oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	sp	swamp white oak
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	bicolor	swamp white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	velutina	black oak
+Miridae	Orthotylinae	Orthotylini	Lopidea	robiniae	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	incisus	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	sericus	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	rubra	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	sp	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	rufulus	Fagaceae	Quercus	coccinea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	palustris	black oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	davisi	Fagaceae	Quercus	veluntia	black oak
+Cicadidae	Cicadettinae	Taphurini	Magicicada	cassinii	Fagaceae	Quercus	nana	NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	cassinii	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Telamonini	Telamona	concava	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus				oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	borealis	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	delicatus	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	robiniae	Fagaceae	Quercus	palustris	pin oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	coccinea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	rubra	oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis	sp	Fagaceae	Quercus	coccinea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	ephemerata	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	exultans	Fagaceae	Quercus	palustris	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	velutina	NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	sp	oak hybrid
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	sp				oak
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	spiniferus	Fagaceae	Quercus	bicolor	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	stellata	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	sp	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	alba	NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	septendecim	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	alba	white oak
+Cicadidae	Cicadinae	Cryptotympanini	Tibicen	auletes	Fagaceae	Quercus	sp	oak
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	alba	white oak
+Miridae	Phylinae	Pronotocrepini	Teleorhinus	tephrosicola				scrub oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	ilicifolia	scrub oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	parvulus	Fagaceae	Quercus	sp	scrub oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	berberidifolia	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	univittatus	Fagaceae	Quercus	berberidifolia	NULL
+Aphididae	Aphidinae	Aphidini	Aphis	sp	Fagaceae	Quercus	stellata	NULL
+Aphididae	Calaphidinae	Panaphidini	Eucallipterus	tiliae	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	melanocera	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	ilicifolia	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	quercicola	Fagaceae	Quercus	coccinea	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	velutina	NULL
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	rubra	red oak
+Miridae	Phylinae	Phylini	Psallus	variabilis	Fagaceae	Quercus	rubra	red oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor	Fagaceae	Quercus	marilandica	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	discolor				white oak
+Aphididae	Aphidinae	Aphidini	Aphis (Aphis)	coreopsidis	Fagaceae	Quercus	velutina	NULL
+Miridae	Phylinae	Phylini	Psallus	variabilis	Fagaceae	Quercus	ilicifolia	NULL
+Miridae	Phylinae	Phylini	Psallus	variabilis	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Amastrini	Vanduzea	arquata	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	vau	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	rubra	red oak
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	heterotrichus	Fagaceae	Quercus	montana	NULL
+Aphididae	Calaphidinae	Panaphidini	Monellia	caryella	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus	borealis	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	granovskyi	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	rubra	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus	imbricaria	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	tuberculatus	Fagaceae	Quercus	alba	white oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	tuberculatus	Fagaceae	Quercus	alba	NULL
+Aphididae	Tamaliinae	Tamaliinae_none	Tamalia	sp	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	rubra	red oak
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	davisi	Fagaceae	Quercus	rubra	NULL
+Aphididae	Phyllaphidinae	Phyllaphidinae_none	Stegophylla	davisi	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei				oak
+Membracidae	Smiliinae	Telamonini	Archasia	belfragei	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	coccinea	scarlet oak
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	alba	scarlet oak
+Membracidae	Smiliinae	Telamonini	Telamona	concava	Fagaceae	Quercus	velutina	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	velutina	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	bicolor	swamp white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	rubra	northern red oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gramatanus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	gratiosus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	veluntia	black oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	bicolor	swamp white oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	sp	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	phellus	NULL
+Membracidae	Smiliinae	Ceresini	Hadrophallus	bubalus	Fagaceae	Quercus	bicolor	NULL
+Miridae	Mirinae	Mirini	Neolygus	omnivagus	Fagaceae	Quercus	bicolor	NULL
+Cicadidae	Cicadinae	Cryptotympanini	Tibicen	pronotalis	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	heterotrichus	Fagaceae	Quercus	prinus	NULL
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	spiniferus	Fagaceae	Quercus	prinus	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	manus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	imbricaria	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	imbricaria	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Cornaceae	Cornus	sp	oak
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae	Quercus	stellata	NULL
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	nigra	NULL
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	velutina	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fasciatus	Fagaceae	Quercus	stellata	post oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	rubricornis	Fagaceae	Quercus	phellos	willow oak
+Membracidae	Smiliinae	Telamonini	Heliria	cristata	Fagaceae	Quercus	stellata	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	stellata	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	camelus	Fagaceae	Quercus	stellata	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fasciatus	Fagaceae	Quercus	stellata	NULL
+Miridae	Orthotylinae	Orthotylini	Reuteria	wheeleri	Fagaceae	Quercus	stellata	NULL
+Derbidae	Otiocerinae	Otiocerini	Apache	degeeri	Fagaceae	Quercus		NULL
+Issidae	Issinae	Thioniini	Thionia	elliptica	Fagaceae	Quercus	stellata	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	wheeleri	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus	palustris	NULL
+Pentatomidae	Asopinae	Asopini	Podisus	maculiventris				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Amastrini	Vanduzea	arquata	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	lutea	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Amastrini	Vanduzea	arquata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	lyrata	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	alba	post oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				water oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				post oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	sp	post oak
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus				pin oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna				pin oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna				red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala				pin oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens				pin oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	phellus	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata				pin oak
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata				post oak
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus				pin oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus	Fagaceae	Quercus	falcata	NULL
+Pentatomidae	Asopinae	none	Euthyrhynchus	floridanus	Fagaceae	Quercus	phellos	NULL
+Coreidae	Coreinae	Acanthocephalini	Acanthocephala (Metapodiessa)	femorata	Fagaceae	Quercus		oak
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				sawtooth oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neolygus	semivittatus	Fagaceae	Quercus	phellus	NULL
+Berytidae	Metacanthinae	Metacanthini	Jalysus	spinosus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	alba	white oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	phellus	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	sp	NULL
+Pentatomidae	Asopinae	Asopini	Podisus	maculiventris	Fagaceae	Quercus	alba	NULL
+Tingidae	Tinginae	Tingini	Corythucha	ciliata	Fagaceae	Quercus	alba	NULL
+Tingidae	Tinginae	Tingini	Stephanitis	pyrioides	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola	Fagaceae	Quercus	phellus	NULL
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	harti	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neolygus	omnivagus	Fagaceae	Quercus	phellus	NULL
+Miridae	Mirinae	Mirini	Neolygus	semivittatus	Fagaceae	Quercus	phellos	NULL
+Miridae	Mirinae	Mirini	Neolygus	tinctus	Fagaceae	Quercus	alba	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	nebulosus	Fagaceae	Quercus	alba	NULL
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	harti	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Herdoniini	Paraxenetus	guttulatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	arcuatus	Fagaceae	Quercus	coccinea	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	sp	oak
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	vitripennis	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	puella	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	stellata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	stellata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola	Fagaceae	Quercus	stellata	NULL
+Miridae	Mirinae	Mirini	Dichrooscytus	repletus	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Neolygus	geneseensis	Fagaceae	Quercus	stellata	NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae	Fagaceae	Quercus	stellata	NULL
+Miridae	Mirinae	Mirini	Neolygus	quercalbae	Fagaceae	Quercus	nigra	NULL
+Miridae	Mirinae	Mirini	Neolygus	semivittatus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	quercicola	Fagaceae	Quercus	stellata	NULL
+Miridae	Mirinae	Mirini	Phytocoris	neglectus	Fagaceae	Quercus	phellus	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata				oak
+Membracidae	Smiliinae	Telamonini	Telamona	salvini	Fagaceae	Quercus	alba	white oak
+Aphrophoridae	Aphrophorinae	Aphrophorini	Aphrophora	parallella	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Neolygus	omnivagus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	reclivata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	falcata	NULL
+Issidae	Issinae	Thioniini	Thionia	elliptica	Fagaceae	Quercus	rubra	NULL
+Pentatomidae	Asopinae	Asopini	Podisus	modestus	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	auriculata	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus				oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Glossonotus	acuminatus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	harti	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus				oak
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	stimulea	Fagaceae	Quercus	nigra	NULL
+Pentatomidae	Asopinae	none	Stiretrus	anchorago				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus				red oak
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata				willow oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	sp	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	rubra	red oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	laurifolia	NULL
+Membracidae	Smiliinae	Ceresini	Stictocephala	brevitylus	Fagaceae	Quercus	sp	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	nebulosus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	levis	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	alba	oak
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	laeve	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	margaretta	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	laevis	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	incana	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	laevis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	incana	NULL
+Tingidae	Tinginae	Tingini	Corythucha	arcuata	Fagaceae	Quercus	margaretta	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	nigra	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	clarus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	ovatus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	veluntia	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	togatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	stellata	NULL
+Pentatomidae	Pentatominae	Pentatomini	Dendrocoris	humeralis	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	velutina	willow oak
+Membracidae	Smiliinae	Micrutalini	Micrutalis	calva	Fagaceae	Quercus	phellos	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	prinus	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	muticus	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	margaritacea	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	margaretta	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	margaretta	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	margaretta	NULL
+Membracidae	Membracinae	Hoplophorionini	Platycotis	vittata	Fagaceae	Quercus	marilandica	NULL
+Membracidae	Smiliinae	Ceresini	Spissistilus	festinus	Fagaceae	Quercus	falcata	NULL
+Pentatomidae	Pentatominae	Pentatomini	Mormidea	lugens	Fagaceae	Quercus	sp	NULL
+Coreidae	Coreinae	Acanthocephalini	Acanthocephala (Metapodiessa)	terminalis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Smilia	fasciata	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	salamandra	Fagaceae	Quercus	nigra	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	alba	NULL
+Pentatomidae	Pentatominae	Halyini	Brochymena	quadripustulata	Fagaceae	Quercus	sp	white oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	rubra	red oak
+Miridae	Mirinae	Mirini	Tropidosteptes	sp	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	interspersus	Fagaceae	Quercus	garryana	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	lattini	Fagaceae	Quercus	garryana	NULL
+Miridae	Orthotylinae	Orthotylini	Heterotoma	planicornis	Fagaceae	Quercus	garryana	NULL
+Miridae	Orthotylinae	Orthotylini	Blepharidopterus	provancheri	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	bituberis	Fagaceae	Quercus	garryana	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	fusifrons				oak
+Miridae	Mirinae	Mirini	Agnocoris	sp				oak
+Miridae	Phylinae	Phylini	Plagiognathus	sp	Fagaceae	Quercus	garryana	NULL
+Cicadellidae	Deltocephalinae	Athysanini	Eutettix (Eutettix)	latus	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Lygus	hesperus				oak
+Miridae	Mirinae	Mirini	Phytocoris	aurora	Fagaceae	Quercus	garryana	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	chrysanthemi	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Irbisia	serrata	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	dumicola	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	fuscipennis	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Phytocoris	sewardi	Fagaceae	Quercus	garryana	Oregon white oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	garryana	Oregon white oak
+Miridae	Mirinae	Mirini	Irbisia	serrata	Fagaceae	Quercus	breweri	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	vestita	Fagaceae	Quercus	sp	oak
+Aphididae	Thelaxinae	Thelaxinae_none	Thelaxes	californica	Fagaceae	Quercus	garryana	Garry oak
+Membracidae	Smiliinae	Micrutalini	Micrutalis	occidentalis	Fagaceae	Quercus	garryana	NULL
+Miridae	Mirinae	Mirini	Ectopiocerus	anthracinus	Fagaceae	Quercus	breweri	NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	vaccinifolia	NULL
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	breweri	NULL
+Miridae	Phylinae	Phylini	Ceratopsallus	pantherinus	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Mirinae	Mirini	Phytocoris	sewardi	Fagaceae	Quercus	chrysolepis	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	lineatus	Fagaceae	Quercus	virginiana	NULL
+Miridae	Mirinae	Mirini	Lygus	hesperus	Fagaceae	Quercus	garryana	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	sp	Fagaceae	Quercus	garryana	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	tibialis	Fagaceae	Quercus	garryana	NULL
+Flatidae	Flatinae	Nephesini	Metcalfa	pruinosa	Fagaceae	Quercus	palustris	NULL
+Cixiidae	Cixiinae	Cixiini	Cixius	coloepeum	Fagaceae	Quercus		NULL
+Cixiidae	Cixiinae	Cixiini	Cixius	nervosus	Fagaceae	Quercus		NULL
+Flatidae	Flatinae	Nephesini	Flatormenis	chloris	Fagaceae	Quercus	palustris	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	coccinea	scarlet oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	palustris	oak
+Miridae	Phylinae	Phylini	Plagiognathus	politus	Fagaceae	Quercus	palustris	NULL
+Membracidae	Smiliinae	Smiliini	Archasia	belfragei				white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	dixianus				white oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis				white oak
+Aphididae	Calaphidinae	Panaphidini	Hoplochaitophorus	quercicola	Fagaceae	Quercus	sp	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	granovskyi	Fagaceae	Quercus	rubra	red oak
+Derbidae	Otiocerinae	Otiocerini	Otiocerus	coquebertii	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	auroreus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	lateralis	Fagaceae	Quercus	stellata	NULL
+Issidae	Issinae	Thioniini	Thionia	simplex	Fagaceae	Quercus	sp	NULL
+Issidae	Issinae	Thioniini	Thionia	elliptica	Fagaceae	Quercus	ilicifolia	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	palustris	pin oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	fuscinus	Fagaceae	Quercus	palustris	NULL
+Miridae	Isometopinae	Myiommini	Corticoris	signatus	Fagaceae	Quercus	palustris	NULL
+Miridae	Isometopinae	Myiommini	Corticoris	sp	Fagaceae	Quercus	palustris	NULL
+Miridae	Isometopinae	Myiommini	Myiomma	cixiiforme	Fagaceae	Quercus	palustris	NULL
+Achilidae	Achilinae	Plectoderini	Catonia	carolina	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus	sp	black oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	funkhouseri	Fagaceae	Quercus	prinus	chestnut oak
+Miridae	Phylinae	Pilophorini	Pilophorus	setiger	Fagaceae	Quercus	ilicifolia	scrub oak
+Pentatomidae	Pentatominae	Pentatomini	Acrosternum	hilare				oak
+Acanthosomatidae	Acanthosomatinae	Acanthosomatini	Elasmucha	lateralis				oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	intermedius	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	ilicifolia	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	furvus	Fagaceae	Quercus	ilicifolia	NULL
+Miridae	Phylinae	Pilophorini	Pilophorus	neoclavatus	Fagaceae	Quercus	ilicifolia	NULL
+Miridae	Orthotylinae	Orthotylini	Schaffneria	pilophoroides	Fagaceae	Quercus	ilicifolia	NULL
+Cicadellidae	Typhlocybinae	Typhlocybini	Typhlocyba	obligua				oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	rubricornis	Fagaceae	Quercus	palustris	pin oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	dobsoni	Fagaceae	Quercus	bicolor	NULL
+Membracidae	Smiliinae	Telamonini	Telamona	monticola	Fagaceae	Quercus		NULL
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	velutina	NULL
+Miridae	Deraeocorinae	Surinamellini	Eustictus	necopinus	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	albatus	Fagaceae	Quercus	phellos	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola				bur oak
+Miridae	Orthotylinae	Orthotylini	Reuteria	bifurcata	Fagaceae	Quercus	sp	oak
+Derbidae	Cedusinae	Cedusini	Cedusa	vulgaris	Fagaceae	Quercus		NULL
+Issidae	Issinae	Thioniini	Thionia	elliptica	Fagaceae	Quercus	velutina	NULL
+Issidae	Issinae	Thioniini	Thionia	elliptica	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Ceresini	Tortistilus	abnormus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Telamonini	Glossonotus	univittatus	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Telamonini	Glossonotus	univittatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Micrutalini	Micrutalis	calva	Fagaceae	Quercus	alba	NULL
+Miridae	Mirinae	Mirini	Metriorrhynchomiris	dislocatus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci				post oak
+Membracidae	Smiliinae	Telamonini	Telamona	decorata	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	imbricaria	NULL
+Reduviidae	Harpactorinae	Apiomerini	Apiomerus	crassipes	Fagaceae	Quercus	sp	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	manus	Fagaceae	Quercus	prinus	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	unica	Fagaceae	Quercus	alba	NULL
+Miridae	Deraeocorinae	Hyaliodini	Hyaliodes	vitripennis	Fagaceae	Quercus	falcata	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	nigrocinctus	Fagaceae	Quercus	virginiana	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	modestus	Fagaceae			post oak
+Miridae	Phylinae	Phylini	Reuteroscopus	sp				post oak
+Membracidae	Smiliinae	Smiliini	Ophiderma	flavicephala	Fagaceae	Quercus	marilandica	NULL
+Miridae	Phylinae	Phylini	Plagiognathus	maculipennis	Fagaceae	Quercus	stellata	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus				live oak
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	virginiana	NULL
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	virginianus	NULL
+Miridae	Phylinae	Phylini	Atractotomus	miniatus	Fagaceae	Quercus	virginiana	live oak
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	virginianus	live oak
+Miridae	Orthotylinae	Orthotylini	Pseudoxenetus	regalis	Fagaceae	Quercus	virginiana	live oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	bellus	Fagaceae	Quercus		oak
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	stellata	post oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sayi	Fagaceae	Quercus	virginianus	NULL
+Miridae	Orthotylinae	Orthotylini	Lopidea	heidemanni	Fagaceae	Quercus	virginianus	NULL
+Miridae	Phylinae	Phylini	Americodema	nigrolineatum	Fagaceae	Quercus	virginianus	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsidea	fusiformis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	stellata	post oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Aspidiotus	osborni	Fagaceae	Quercus	sp	oak
+Membracidae	Smiliinae	Smiliini	Xantholobus	nigrocinctus	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	olseni	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	hypoleucoides	Fagaceae	Quercus	chihuahuensis	NULL
+Cicadidae	Cicadinae	Cryptotympanini	Tibicen	inauditus	Fagaceae	Quercus	sp	oak
+Cicadidae	Cicadinae	Cicadini	Neocicada	chisos	Fagaceae	Quercus	sp	oak
+Reduviidae	Phymatinae	Phymatini	Phymata	luxa	Fagaceae	Quercus		NULL
+Miridae	Mirinae	Mirini	Neocapsus	leviscutatus	Fagaceae	Quercus	sp	oak
+Aleyrodidae	Aleyrodinae	Aleyrodinae_none	Aleuroplatus	quercusaquaticae	Fagaceae	Quercus	sp	oak
+Miridae	Phylinae	Phylini	Plagiognathus	politus	Fagaceae	Quercus	buckleyi	NULL
+Miridae	Phylinae	Phylini	Hamatophylus	guttulosus	Fagaceae	Quercus	buckleyi	NULL
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	lutescens	Fagaceae	Quercus	virginiana	southern live oak
+Miridae	Orthotylinae	Ceratocapsini	Ceratocapsus	modestus	Fagaceae	Quercus	buckleyi	buckley oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Chrysomphalus	obscurus	Fagaceae	Quercus	virginiana	live oak
+Miridae	Phylinae	Phylini	Phoenicocoris	rostratus	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	stellata	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	laurifolia	NULL
+Cicadellidae	Typhlocybinae	Erythroneurini	Eratoneura	gilesi	Fagaceae	Quercus	stellata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	nebulosus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	fraterculus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Bisulcopsallus	fuscipunctatus	Fagaceae	Quercus	undulata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	brevis	Fagaceae	Quercus	undulata	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	vanduzeei	Fagaceae	Quercus	undulata	NULL
+Miridae	Phylinae	Phylini	Occidentodema	mcfarlandi	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Telamonanthe	pulchella	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pictus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	maricopae	Fagaceae	Quercus	undulata	NULL
+Membracidae	Smiliinae	Ceresini	Tortistilus	wickhami	Fagaceae	Quercus	gambelii	NULL
+Membracidae	Smiliinae	Smiliini	Xantholobus	inflatus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Orthotylinae	Orthotylini	Aoplonema	rubrum	Fagaceae	Quercus	sp	NULL
+Membracidae	Smiliinae	Smiliini	Telamonanthe	pulchella	Fagaceae	Quercus	utahensis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	berberidifolia	scrub oak
+Miridae	Mirinae	Mirini	Lygocoris	deraeocoroides	Fagaceae	Quercus	sp	NULL
+Miridae	Phylinae	Phylini	Occidentodema	polhemusi	Fagaceae	Quercus	sp	NULL
+Miridae	Mirinae	Mirini	Phytocoris	hopi	Fagaceae	Quercus	gambelii	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	schwarzii				oak
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	quercicola				oak
+Miridae	Phylinae	Phylini	Pygovepres	vaccinicola	Fagaceae	Quercus	gambelii	NULL
+Cicadellidae	Deltocephalinae	Athysanini	Euscelidius	variegatus	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Phytocoris	dumicola	Fagaceae	Quercus	gambelii	NULL
+Miridae	Phylinae	Phylini	Tuxedo	nicholi	Fagaceae	Quercus	gambelii	NULL
+Miridae	Mirinae	Mirini	Knightomiris	distinctus	Fagaceae	Quercus	gambelii	Gambel oak
+Cicadidae	Tibicininae	Tibicinini	Okanagana	sp	Fagaceae	Quercus	sp	evergreen oak
+Membracidae	Smiliinae	Telamonini	Telamona	extrema	Fagaceae	Quercus	sp	NULL
+Miridae	Orthotylinae	Orthotylini	Reuteria	querci	Fagaceae	Quercus		oak
+Miridae	Mirinae	Mirini	Phytocoris	eximius	Fagaceae	Quercus		oak
+Miridae	Mirinae	Mirini	Phytocoris	puella	Fagaceae	Quercus		oak
+Miridae	Mirinae	Mirini	Neolygus	omnivagus	Fagaceae	Quercus	alba	NULL
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	stellata	NULL
+Acanaloniidae	Acanaloniinae	Acanaloniini	Acanalonia	bivittata	Fagaceae	Quercus		NULL
+Achilidae	Achilinae	Plectoderini	Catonia	carolina				oak
+Membracidae	Smiliinae	Polyglyptini	Entylia	carinata	Fagaceae	Quercus		NULL
+Cicadellidae	Deltocephalinae	Athysanini	Chlorotettix (Chlorotettix)	spatulatus	Fagaceae	Quercus		NULL
+Miridae	Phylinae	Phylini	Tuxedo	susansolomonae	Fagaceae	Quercus	garryana	NULL
+Miridae	Deraeocorinae	Deraeocorini	Deraeocoris	sp				oak
+Pentatomidae	Asopinae	Asopini	Podisus	brevispinus				pin oak
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Fagaceae	Quercus	ilicifolia	scrub oak
+Cicadidae	Cicadettinae	Taphurini	Magicicada	sp	Sapindaceae	Acer	rubrum	red oak
+Membracidae	Smiliinae	Ceresini	Stictocephala	basalis	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	velutina	NULL
+Aphididae	Calaphidinae	Panaphidini	Lachnochaitophorus	querceus	Fagaceae	Quercus	nigra	NULL
+Cicadellidae	Typhlocybinae	Typhlocybini	Ossiannilssonola	berenice	Fagaceae	Quercus	rubra	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Atymna	querci	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	inermis	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	flava	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	maculifrontis	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	puritanus	Fagaceae	Quercus	ellipsoidalis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	pubescens	Fagaceae	Quercus	ellipsoidalis	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	evelyna	Fagaceae	Quercus	ellipsoidalis	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	borealis	NULL
+Membracidae	Smiliinae	Smiliini	Smilia	camelus	Fagaceae	Quercus	ellipsoidalis	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	discoidalis	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fenestratus	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuliginosus	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	griseus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pallidifrontis	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pulchellus	Fagaceae	Quercus	velutina	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pulchellus	Fagaceae	Quercus	alba	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	pulchellus	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	tuberosus	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	macrocarpa	NULL
+Dictyopharidae	Dictyopharinae	Dictyopharini	Scolops	sulcipes	Fagaceae	Quercus		NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita				red oak
+Membracidae	Smiliinae	Smiliini	Atymna	helena	Fagaceae	Quercus		oak
+Membracidae	Smiliinae	Smiliini	Cyrtolobus	fuscipennis	Fagaceae	Quercus	macrocarpa	NULL
+Membracidae	Smiliinae	Smiliini	Ophiderma	definita	Fagaceae	Quercus	veluntia	NULL
+Aphididae	Calaphidinae	Panaphidini	Neosymydobius	albasiphus	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	multisetis	Fagaceae	Quercus	palustris	NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	cerris	NULL
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculatus)	querceus	Fagaceae	Quercus	sp	oak
+Aphididae	Calaphidinae	Panaphidini	Tuberculatus (Tuberculatus)	querceus	Fagaceae	Quercus	alba	oak
+Diaspididae	Diaspididae_none	Diaspididae_none_none	Melanaspis	obscura	Fagaceae	Quercus	incana	willow oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Neomyzocallis)	punctata	Fagaceae	Quercus	alba	oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	walshii	Fagaceae	Quercus		NULL
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Lineomyzocallis)	exultans	Fagaceae	Quercus	palustris	pin oak
+Aphididae	Calaphidinae	Panaphidini	Myzocallis (Myzocallis)	sp	Fagaceae	Quercus	rubra	NULL
